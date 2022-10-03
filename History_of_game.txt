@@ -1,0 +1,60 @@
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+asad				iqbal
+
+		asad  WON GAME 
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+ahmed				ali
+
+		ahmed  WON GAME 
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+ahmed				usama
+
+		ahmed  WON GAME 
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+mahar				ahmed
+		ahmed  won the game
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+ahmed				ali
+
+		ahmed  WON GAME 
+
+
+		******GAME IS PLAYED BY ********* 
+
+
+NAME of first player 		 NAME of second player
+
+ahmed				mm
+		mm  won the game
+k				ahmed
+		ahmed  won the game
