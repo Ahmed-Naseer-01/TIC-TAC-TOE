@@ -1,1 +1,2 @@
 # TIC-TAC-TOE
+This is my mini project based on a fun game named Tic_Tac_Toe. This game is based on console (no GUI involved) purely written in C++. I used basic function of Cpp in it like loops,array,switch, functions etc. I also use different color for console window to make game more attractive for the user. Further i used file handling in it to store the record of players, that can be visible to user on run time
